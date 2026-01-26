@@ -16,25 +16,25 @@ Web Developer in training | Learning JavaScript, TypeScript, and React
 
 ## 🚀 Projects (Pinned / Key Projects)
 
-### lufs-player
-🎵 LUFS方式で音量正規化する音楽プレイヤー  
-👉 [Repository](https://github.com/fbansghd/lufs-player)
-
-### youtube-account-switcher
-🔄 YouTube視聴用の別アカウント切り替えBrave拡張  
-👉 [Repository](https://github.com/fbansghd/youtube-account-switcher)
+### sortnote-local
+💾 ローカル保存のメモアプリ  
+👉 [Repository](https://github.com/fbansghd/sortnote-local)
 
 ### sortnote-online
-📝 Supabase DBに保存するオンラインメモアプリ  
+📝 認証＆DB保存のオンラインメモアプリ  
 👉 [Repository](https://github.com/fbansghd/sortnote-online)
 
 ### figma-layer-tree-plugin
 📂 レイヤーの詳細を出力するFigmaプラグイン  
 👉 [Repository](https://github.com/fbansghd/figma-layer-tree-plugin)
 
-### sortnote-local
-💾 ローカル保存のメモアプリ  
-👉 [Repository](https://github.com/fbansghd/sortnote-local)
+### youtube-account-switcher
+🔄 YouTube視聴の目的別にアカウントを切り替えるBrave拡張  
+👉 [Repository](https://github.com/fbansghd/youtube-account-switcher)
+
+### lufs-player
+🎵 LUFS方式で音量正規化する音楽プレイヤー  
+👉 [Repository](https://github.com/fbansghd/lufs-player)
 
 ---
 
