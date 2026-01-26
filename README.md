@@ -21,7 +21,7 @@ Web Developer in training | Learning JavaScript, TypeScript, and React
 👉 [Repository](https://github.com/fbansghd/lufs-player)
 
 ### youtube-account-switcher
-🔄 YouTube視聴用の別アカウント切り替えChrome拡張  
+🔄 YouTube視聴用の別アカウント切り替えBrave拡張  
 👉 [Repository](https://github.com/fbansghd/youtube-account-switcher)
 
 ### sortnote-online
