@@ -1,6 +1,10 @@
 # 👋 Hi, I'm fumihiro-sugino
 
-Web Developer in training | Learning JavaScript, TypeScript, and React  
+Web Developer | JavaScript, TypeScript & React | Building Real Projects
+
+I focus on creating web applications with React that offer clean, user-friendly interfaces and smooth interactions.  
+My deployed projects demonstrate practical solutions and attention to user experience.
+
 📫 Contact: fbansghd@gmail.com  
 💻 Portfolio: [sortnote-online](https://sortnote-online.vercel.app/)
               [sortnote-local](https://sortnote-local.vercel.app/)
