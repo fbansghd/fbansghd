@@ -33,7 +33,7 @@ My deployed projects demonstrate practical solutions and attention to user exper
 👉 [Repository](https://github.com/fbansghd/figma-layer-tree-plugin)
 
 ### youtube-account-switcher
-🔄 YouTube視聴の目的別にアカウントを切り替える、Crome&Brave拡張機能  
+🔄 YouTube視聴の目的別にアカウントを切り替える、Chrome&Brave拡張機能  
 👉 [Repository](https://github.com/fbansghd/youtube-account-switcher)
 
 ### lufs-player
