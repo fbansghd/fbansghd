@@ -17,7 +17,7 @@ React を主軸に、認証・データ永続化・拡張機能・自動化と�
 React / Supabase  
 
 - ユーザー認証、データ永続化、CRUD 機能を実装
-- 小〜中規模業務アプリケーションを想定した設計  
+- 業務利用を前提とした構成で設計・実装 　  
 👉 Repository: https://github.com/fbansghd/sortnote-online
 
 ---
