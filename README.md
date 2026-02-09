@@ -3,7 +3,7 @@
 Web Developer | React / TypeScript  
 業務要件を踏まえた Web アプリケーションの設計・実装を行っています。
 
-React を主軸に、認証・データ永続化・拡張機能・自動化といった
+React を主軸に、認証・データ永続化・拡張機能・自動化といった  
 業務要件に基づく機能を、保守性・拡張性を重視して実装しています。
 
 📫 Contact: fbansghd@gmail.com
