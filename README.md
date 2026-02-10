@@ -23,7 +23,7 @@ React / Supabase
 ---
 
 ### youtube-account-switcher
-**YouTube利用用途別アカウント切り替えブラウザ拡張**  
+**YouTube推薦アルゴリズム改善を目的とした，アカウント切り替えブラウザ拡張**  
 JavaScript / Chrome / Brave  
 
 - ブラウザ拡張の構成設計および状態管理
