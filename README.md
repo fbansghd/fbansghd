@@ -62,7 +62,7 @@ Python
 **Backend / Others**
 - Supabase
 - Node.js
-- Python（スクレイピング・自動化）
+- Python
 
 **Tools**
 - Git / GitHub
