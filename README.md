@@ -43,7 +43,7 @@ JavaScript / Figma Plugin API
 ---
 
 ### indeed-job-scraper
-**React関連求人情報を自動収集するスクレイピングツール**  
+**indeedの求人情報を自動収集するスクレイピングツール**  
 Python  
 
 - 定期的なデータ取得を想定したスクレイピング処理
