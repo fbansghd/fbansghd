@@ -1,10 +1,10 @@
 # fumihiro-sugino
 
-Web Developer | React / TypeScript  
-業務要件を踏まえた Web アプリケーションの設計・実装を行っています。
+Web Developer | React / TypeScript
 
-React を主軸に、認証・データ永続化・拡張機能・自動化といった  
-業務要件に基づく機能を、保守性・拡張性を重視して実装しています。
+業務要件を踏まえた Web アプリケーションの設計・実装を行っています。
+認証、データ永続化、ブラウザ拡張、業務自動化ツールなどを
+保守性・拡張性を重視して実装しています。
 
 📫 Contact: fbansghd@gmail.com
 
