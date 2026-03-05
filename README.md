@@ -36,30 +36,34 @@ React / LocalStorage
 
 ### youtube-account-switcher
 **YouTube動画推薦アルゴリズムの改善を目的とした，アカウント切り替えブラウザ拡張**  
-JavaScript / Chrome / Brave  
+React / Vite / Chrome Extension (Manifest V3)  
 
-- ブラウザ拡張の構成設計および状態管理
-- 利用シーンを明確化した UX 重視の実装  
+- YouTube利用時に「学習・遊び・音楽」などの視聴目的を選択し、対応するGoogleアカウントへ切り替え
+- ReactによるポップアップUIを実装し、目的ごとのアカウントマッピングを管理
+- Chrome Extension Manifest V3構成でブラウザ拡張として動作
 👉 Repository: https://github.com/fbansghd/youtube-account-switcher
 
 ---
 
 ### figma-layer-tree-plugin
-**Figmaレイヤー構造を出力する開発支援プラグイン**  
-JavaScript / Figma Plugin API  
+**Figmaレイヤー構造をAI向けにエクスポートするFigmaプラグイン**  
+Figma Plugin API / JavaScript
 
-- レイヤー情報の抽出・整形処理
-- デザイン・実装間の連携効率向上を目的としたツール  
+- 選択したレイヤーをツリー形式で表示し、UI構造を可視化
+- サイズ・色・Auto Layout・テキスト情報などを含む詳細JSONを生成
+- 生成したレイヤー構造をAIツールへコピーして利用可能  
 👉 Repository: https://github.com/fbansghd/figma-layer-tree-plugin
 
 ---
 
 ### indeed-job-scraper
 **indeedの求人情報を自動収集するスクレイピングツール**  
-Python  
+Python / Selenium / Pandas
 
-- 定期的なデータ取得を想定したスクレイピング処理
-- 分析・調査用途を想定した構成  
+- キーワード・地域を指定して求人情報を自動収集
+- 取得データをCSVに保存し、job_idで重複を自動除外
+- 欠損データを詳細ページから再取得する補完スクリプトを実装
+
 👉 Repository: https://github.com/fbansghd/indeed-job-scraper
 
 ---
