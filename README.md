@@ -16,18 +16,20 @@ React を主軸に、認証・データ永続化・拡張機能・自動化と�
 **認証・DB連携を備えたオンラインメモアプリケーション**  
 React / Supabase  
 
-- ユーザー認証、データ永続化、CRUD 機能を実装
-- 業務利用を前提とした構成で設計・実装 　  
+- Supabase Auth を利用したユーザー認証を実装
+- PostgreSQL と同期する CRUD 機能を実装
+- sortnote-local をベースに、オンライン同期機能を追加して拡張　  
 👉 Repository: https://github.com/fbansghd/sortnote-online
 
 ---
 
 ### sortnote-local
-**ローカル保存型タスク管理アプリケーション（ドラッグ&ドロップ対応）**  
+**ローカル保存型タスク管理アプリケーション**  
 React / LocalStorage  
 
 - カテゴリ・タスクの作成、並び替え、カテゴリ間移動を実装
-- LocalStorage によるデータ永続化とレスポンシブUI対応  
+- LocalStorage によるデータ永続化
+- sortnote-online のベースとなるアプリケーション  
 👉 Repository: https://github.com/fbansghd/sortnote-local
 
 ---
