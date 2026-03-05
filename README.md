@@ -22,6 +22,16 @@ React / Supabase
 
 ---
 
+### sortnote-local
+**ローカル保存型タスク管理アプリケーション（ドラッグ&ドロップ対応）**  
+React / LocalStorage  
+
+- カテゴリ・タスクの作成、並び替え、カテゴリ間移動を実装
+- LocalStorage によるデータ永続化とレスポンシブUI対応  
+👉 Repository: https://github.com/fbansghd/sortnote-local
+
+---
+
 ### youtube-account-switcher
 **YouTube動画推薦アルゴリズムの改善を目的とした，アカウント切り替えブラウザ拡張**  
 JavaScript / Chrome / Brave  
