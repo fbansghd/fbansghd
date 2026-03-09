@@ -30,7 +30,8 @@ React / LocalStorage
 
 - カテゴリ・タスクの作成、並び替え、カテゴリ間移動を実装
 - LocalStorage によるデータ永続化
-- sortnote-online のベースとなるアプリケーション  
+- sortnote-online のベースとなるアプリケーション
+  
 👉 Repository: https://github.com/fbansghd/sortnote-local
 
 ---
@@ -41,7 +42,8 @@ React / Vite / Chrome Extension (Manifest V3)
 
 - YouTube利用時に「学習・遊び・音楽」などの視聴目的を選択し、対応するGoogleアカウントへ切り替え
 - ReactによるポップアップUIを実装し、目的ごとのアカウントマッピングを管理
-- Chrome Extension Manifest V3構成でブラウザ拡張として動作  
+- Chrome Extension Manifest V3構成でブラウザ拡張として動作
+  
 👉 Repository: https://github.com/fbansghd/youtube-account-switcher
 
 ---
@@ -52,7 +54,8 @@ Figma Plugin API / JavaScript
 
 - 選択したレイヤーをツリー形式で表示し、UI構造を可視化
 - サイズ・色・Auto Layout・テキスト情報などを含む詳細JSONを生成
-- 生成したレイヤー構造をAIツールへコピーして利用可能  
+- 生成したレイヤー構造をAIツールへコピーして利用可能
+  
 👉 Repository: https://github.com/fbansghd/figma-layer-tree-plugin
 
 ---
@@ -63,7 +66,8 @@ Python / Selenium / Pandas
 
 - キーワード・地域を指定して求人情報を自動収集
 - 取得データをCSVに保存し、job_idで重複を自動除外
-- 欠損データを詳細ページから再取得する補完スクリプトを実装  
+- 欠損データを詳細ページから再取得する補完スクリプトを実装
+  
 👉 Repository: https://github.com/fbansghd/indeed-job-scraper
 
 ---
