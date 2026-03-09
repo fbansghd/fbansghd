@@ -60,18 +60,6 @@ Figma Plugin API / JavaScript
 
 ---
 
-### indeed-job-scraper
-**indeedの求人情報を自動収集するスクレイピングツール**  
-Python / Selenium / Pandas
-
-- キーワード・地域を指定して求人情報を自動収集
-- 取得データをCSVに保存し、job_idで重複を自動除外
-- 欠損データを詳細ページから再取得する補完スクリプトを実装
-  
-👉 Repository: https://github.com/fbansghd/indeed-job-scraper
-
----
-
 ## Technical Skills
 
 **Frontend**
