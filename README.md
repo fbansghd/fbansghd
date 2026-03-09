@@ -18,7 +18,8 @@ React / Supabase
 
 - Supabase Auth を利用したユーザー認証を実装
 - PostgreSQL と同期する CRUD 機能を実装
-- sortnote-local をベースに、オンライン同期機能を追加して拡張  
+- sortnote-local をベースに、オンライン同期機能を追加して拡張
+  
 👉 Repository: https://github.com/fbansghd/sortnote-online
 
 ---
