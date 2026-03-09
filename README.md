@@ -18,7 +18,7 @@ React / Supabase
 
 - Supabase Auth を利用したユーザー認証を実装
 - PostgreSQL と同期する CRUD 機能を実装
-- sortnote-local をベースに、オンライン同期機能を追加して拡張　  
+- sortnote-local をベースに、オンライン同期機能を追加して拡張 
 👉 Repository: https://github.com/fbansghd/sortnote-online
 
 ---
@@ -29,7 +29,7 @@ React / LocalStorage
 
 - カテゴリ・タスクの作成、並び替え、カテゴリ間移動を実装
 - LocalStorage によるデータ永続化
-- sortnote-online のベースとなるアプリケーション  
+- sortnote-online のベースとなるアプリケーション 
 👉 Repository: https://github.com/fbansghd/sortnote-local
 
 ---
@@ -40,7 +40,7 @@ React / Vite / Chrome Extension (Manifest V3)
 
 - YouTube利用時に「学習・遊び・音楽」などの視聴目的を選択し、対応するGoogleアカウントへ切り替え
 - ReactによるポップアップUIを実装し、目的ごとのアカウントマッピングを管理
-- Chrome Extension Manifest V3構成でブラウザ拡張として動作
+- Chrome Extension Manifest V3構成でブラウザ拡張として動作 
 👉 Repository: https://github.com/fbansghd/youtube-account-switcher
 
 ---
