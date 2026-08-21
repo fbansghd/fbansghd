@@ -85,4 +85,3 @@ Figma Plugin API / JavaScript
 - Chrome / Brave 拡張機能開発
 - スクレイピング・業務自動化ツール作成
 
-小〜中規模案件、PoC から本番運用まで対応可能です。
